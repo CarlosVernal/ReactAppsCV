@@ -1,0 +1,165 @@
+{
+    "ejercicios": [
+      {
+        "tipo": "Curl de bíceps con barra",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Brazo",
+          "musculo": "Bíceps"
+        }
+      },
+      {
+        "tipo": "Curl martillo con mancuernas",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Brazo",
+          "musculo": "Bíceps"
+        }
+      },
+      {
+        "tipo": "Extensión de tríceps en polea",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Brazo",
+          "musculo": "Tríceps"
+        }
+      },
+      {
+        "tipo": "Fondos en paralelas",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Brazo",
+          "musculo": "Tríceps"
+        }
+      },
+      {
+        "tipo": "Press militar con barra",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Hombro",
+          "musculo": "Deltoides"
+        }
+      },
+      {
+        "tipo": "Elevaciones laterales con mancuernas",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades superiores",
+          "grupo": "Hombro",
+          "musculo": "Deltoides"
+        }
+      },
+      {
+        "tipo": "Dominadas",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco posterior",
+          "musculo": "Dorsal ancho"
+        }
+      },
+      {
+        "tipo": "Remo con barra",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco posterior",
+          "musculo": "Dorsal ancho"
+        }
+      },
+      {
+        "tipo": "Press banca con barra",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco anterior",
+          "musculo": "Pectorales"
+        }
+      },
+      {
+        "tipo": "Flexiones de brazos",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco anterior",
+          "musculo": "Pectorales"
+        }
+      },
+      {
+        "tipo": "Crunches",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco anterior",
+          "musculo": "Abdominales"
+        }
+      },
+      {
+        "tipo": "Elevación de piernas",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Tronco anterior",
+          "musculo": "Abdominales"
+        }
+      },
+      {
+        "tipo": "Rotación de tronco con mancuerna",
+        "grupoMuscular": {
+          "granGrupo": "Tronco",
+          "grupo": "Oblicuos",
+          "musculo": "Oblicuos"
+        }
+      },
+      {
+        "tipo": "Sentadilla con barra",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Muslo",
+          "musculo": "Cuádriceps"
+        }
+      },
+      {
+        "tipo": "Prensa de piernas",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Muslo",
+          "musculo": "Cuádriceps"
+        }
+      },
+      {
+        "tipo": "Elevación de talones de pie",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Pierna",
+          "musculo": "Gemelos"
+        }
+      },
+      {
+        "tipo": "Curl de piernas",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Pierna",
+          "musculo": "Isquiotibiales"
+        }
+      },
+      {
+        "tipo": "Sentadilla sumo",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Cadera",
+          "musculo": "Glúteos"
+        }
+      },
+      {
+        "tipo": "Hip thrust",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Cadera",
+          "musculo": "Glúteos"
+        }
+      },
+      {
+        "tipo": "Abducción de cadera con mancuerna",
+        "grupoMuscular": {
+          "granGrupo": "Extremidades inferiores",
+          "grupo": "Cadera",
+          "musculo": "Glúteos"
+        }
+      }
+    ]
+  }
+  

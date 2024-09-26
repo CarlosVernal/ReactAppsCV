@@ -1,0 +1,110 @@
+Relaciones clave:
+1.    Usuario tiene muchas Rutinas (1 a N).
+2.    Rutina contiene varios Días de entrenamiento (1 a N).
+3.    Día de entrenamiento tiene muchos Ejercicios (1 a N).
+4.    Ejercicio tiene varias Series (1 a N).
+
+ejemplo
+{
+  "usuario": {
+    "nombre": "Carlos",
+    "rutinas": [
+      {
+        "dia": 1,
+        "nombre": "Empuje",
+        "ejercicios": [
+          {
+            "tipo": "Press banca con barra",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades superiores",
+              "grupo": "Tronco anterior",
+              "musculo": "Pectorales"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": [ {
+                "serie": 1,
+                "repeticionesCompletadas": 10,
+                "descansoRealEnSegundos": 40,
+                "pesoUsadoKg": 40
+            },
+            ]
+          },
+          {
+            "tipo": "Fondos en paralelas",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades superiores",
+              "grupo": "Brazo",
+              "musculo": "Tríceps"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": []
+          }
+        ]
+      },
+      {
+        "dia": 2,
+        "nombre": "Tirón",
+        "ejercicios": [
+          {
+            "tipo": "Dominadas",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades superiores",
+              "grupo": "Tronco posterior",
+              "musculo": "Dorsal ancho"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": []
+          },
+          {
+            "tipo": "Remo con barra",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades superiores",
+              "grupo": "Tronco posterior",
+              "musculo": "Trapecio"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": []
+          }
+        ]
+      },
+      {
+        "dia": 3,
+        "nombre": "Piernas",
+        "ejercicios": [
+          {
+            "tipo": "Sentadilla sumo",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades inferiores",
+              "grupo": "Muslo",
+              "musculo": "Cuádriceps"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": []
+          },
+          {
+            "tipo": "Hip thrust",
+            "grupoMuscular": {
+              "granGrupo": "Extremidades inferiores",
+              "grupo": "Cadera",
+              "musculo": "Glúteos"
+            },
+            "series": 3,
+            "repeticionesObjetivo": 10,
+            "descansoObjetivo": "1 min",
+            "resultados": []
+          }
+        ]
+      }
+    ]
+  }
+}
